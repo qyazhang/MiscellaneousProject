@@ -1,0 +1,156 @@
+Title: 
+Biodiesel looks pretty in pink
+Author: 
+ Evans, Jon
+Journal: 
+BIOFUELS BIOPRODUCTS & BIOREFINING-BIOFPR
+Publish Year: 
+NOV 2013
+Abstract: 
+
+Keyword: 
+
+
+Title: 
+Environmental sustainability of advanced biofuels
+Author: 
+ Davis, Sarah C.;  Kucharik, Christopher J.;  Fazio, Simone;  Monti, Andrea
+Journal: 
+BIOFUELS BIOPRODUCTS & BIOREFINING-BIOFPR
+Publish Year: 
+NOV 2013
+Abstract: 
+Economic and policy incentives for biofuel development differ in the USA and the EU, but indicators of environmental sustainability that have emerged from recent scientific literature transcend political boundaries. We classified these indicators according to six dimensions of environmental sustainability that have been previously identified, providing a description of each, and relating them to proposed international standards for advanced biofuels. Advanced biofuel development can be a step toward environmentally sustainable energy if optimal standards for feedstock selection, management, production, and fuel conversion are explicitly targeted. Tools for assessing environmental sustainability exist, but have not yet been put to task in a standardized way for advanced biofuels. (c) 2013 Society of Chemical Industry and John Wiley & Sons, Ltd
+Keyword: 
+second generation,bioenergy,ecology,ethanol,biomass,feedstock,CYCLE IMPACT ASSESSMENT,CARBON DEBT,LAND-USE,BIOENERGY,EMISSIONS,CHOICES,ENERGY,CROPS
+
+Title: 
+Production facilities for second-generation biofuels in the USA and the EU - current status and future perspectives
+Author: 
+ Janssen, Rainer;  Turhollow, Anthony F.;  Rutz, Dominik;  Mergner, Rita
+Journal: 
+BIOFUELS BIOPRODUCTS & BIOREFINING-BIOFPR
+Publish Year: 
+NOV 2013
+Abstract: 
+Second-generation biofuel production facilities have been slower to reach large-scale production than was anticipated a few years ago even though in Europe, the Renewable Energy Directive provides incentives; in the United States there are also financial incentives and the Energy Independence and Security Act of 2007 has targets for second-generation biofuels. But starting in 2013 it appears that significant quantities of second-generation biofuels will be produced. A variety of conversion processes, thermochemical and biological, as well as hybrids of the two is being utilized. There will be a variety of fuels - ethanol, drop-in fuels (e.g. gasoline, diesel), biodiesel, steam, electricity, bio-oil, sugars, and chemicals; and a variety of feedstocks - crop residues, wood, wood wastes, energy crops, waste oils and municipal solid waste (MSW). One approach to reducing the risk of moving from first- to second-generation biofuel production has been to take incremental steps such as converting the cellulosic part of grains into ethanol in addition to the starch portion. Many of the second-generation biofuel facilities are co-located with first-generation biofuel production facilities to share infrastructure as well as trade by-products (e.g. excess steam). One of the challenges has been financing, but both private and government sources are being utilized. Private sources include internal corporate funds and debt offerings, and venture capital. Government sources include the US federal government, the European Union, European national governments, and state and local governments. (c) 2013 Society of Chemical Industry and John Wiley & Sons, Ltd
+Keyword: 
+second-generation biofuels,United States,Europe,demonstration plants,ethanol,synthetic fuels
+
+Title: 
+Reviewing models of land availability and dynamics for biofuel crops in the United States and the European Union
+Author: 
+ Li, Ruopu;  di Virgilio, Nicola;  Guan, Qingfeng;  Feng, Song;  Richter, Goetz M.
+Journal: 
+BIOFUELS BIOPRODUCTS & BIOREFINING-BIOFPR
+Publish Year: 
+NOV 2013
+Abstract: 
+The biofuel-related land use in the USA and the EU has significantly expanded during the last decade; models have been used to estimate land availability and demand in these regions. This paper provides an overview of different land-use modeling practices applicable to first- and second-generation biofuels. We review the importance of different land categories for biofuels, modeling approaches (top-down/bottom-up) and their integration, data availability for calibration and validation, model scale, and uncertainty. Possible future changes of biofuel land use and research gaps and limitations are synthesized. Key issues are the lack of data for independent validation and the need for better integration of dynamic bottom-up models into the top-down policy analysis. More research is needed to deal with the large-scale introduction of second-generation biofuel crops required. The paper culminates in describing how models can help to meet the challenge of supplying more fuel from lignocellulosic crops (LCC) in ways that reduce indirect land-use change (iLUC) and how such transition could be implemented in policy and practice. (c) 2013 Society of Chemical Industry and John Wiley & Sons, Ltd
+Keyword: 
+biofuel crops,first-generation biofuel,land-use change,cellulosic biofuel,SHORT-ROTATION COPPICE,CLIMATE-CHANGE,FUTURE SCENARIOS,PRODUCTION POTENTIALS,CULTIVATED LAND,SUSTAINABLE USE,BIO-ENERGY,BIOENERGY,YIELD,BIOMASS
+
+Title: 
+Policy regimes and funding schemes to support investment for next-generation biofuels in the USA and the EU-27
+Author: 
+ Panoutsou, Calliope;  Bauen, Ausilio;  Duffield, Jim
+Journal: 
+BIOFUELS BIOPRODUCTS & BIOREFINING-BIOFPR
+Publish Year: 
+NOV 2013
+Abstract: 
+The production of next-generation biofuels both in the EU-27 and the USA involves producing biofuels beyond the conventional sugar, starch, vegetable oils, and animal-fat-based biofuels now produced commercially. Next-generation biofuels can be derived from non-food crops or agricultural residues, fast-growing trees, forestry, and municipal wastes, etc., and include (cellulosic) ethanol, butanol, methanol, dimethyl ether (DME), Fischer-Tropsch diesel, upgraded pyrolysis oils, microbial drop-in gasoline and diesel substitutes, and biofuels made from microbial oils and algae. The context of policy development for next-generation biofuels both in the USA and the EU-27 is based on the evidence that as demand for biofuels is growing and both the market and policies become more ambitious, a broader variety of feedstocks are needed to meet increasing production and use goals. At the moment, in both regions, policies to support conventional biofuels are still in place, but new strategies are being adopted at a fast rate to build a bridge from first-generation to next-generation biofuels and ensure sustainable supply. This paper presents the background and rationale for the current policy regimes and funding schemes in the USA and EU-27 in relation to next-generation biofuels, gives an update of the current market developments and provides a set of recommendations on the key issues that future policy formation should take into account to efficiently translate the ambitious' targets into a commercialization prospects. (c) 2013 Society of Chemical Industry and John Wiley & Sons, Ltd
+Keyword: 
+
+
+Title: 
+Managing a second-generation crop portfolio through sustainable intensification: Examples from the USA and the EU
+Author: 
+ Heaton, Emily A.;  Schulte, Lisa A.;  Berti, Marisol;  Langeveld, Hans;  Zegada-Lizarazu, Walter;  Parrish, David;  Monti, Andrea
+Journal: 
+BIOFUELS BIOPRODUCTS & BIOREFINING-BIOFPR
+Publish Year: 
+NOV 2013
+Abstract: 
+Sustainable intensification of agricultural systems has been suggested - in addition to reducing waste and changing consumption habits - as a way to increase food, feed, fuel, and fiber security in the twenty-first century. Here we describe three primary strategies of agricultural intensification - conventional intensification, temporal intensification, and spatial intensification - and how they can be used to manage and integrate food and second-generation crop portfolios. While each strategy has individual merits, combining them to meet case-specific targets may achieve optimum results. Multiple experiments and examples from the USA and the EU illustrate the potential of combining these approaches for agroecological intensification that can provide ecosystem services while maintaining or increasing economic output, thus striking a balance between land sparing' and land sharing'. Management strategies will vary by the types of markets available, e.g., food, fuel and/or ecosystem services, and the scale of markets supplied, e.g., small heat and power vs. large cellulosic ethanol. Future research should holistically and methodologically evaluate the trade-offs between different management strategies. (c) 2013 Society of Chemical Industry and John Wiley & Sons, Ltd
+Keyword: 
+food vs,fuel,agroecology,landscape management,bioenergy,biomass,ecosystem services,FUTURE ENERGY CROPS,LAND-USE,BIODIVERSITY CONSERVATION,SEMIARID REGION,NORTHWEST CHINA,FILTER STRIPS,FOOD SECURITY,CORN-BELT,BIOMASS,AGRICULTURE
+
+Title: 
+Dedicated crops for advanced biofuels: Consistent and diverging agronomic points of view between the USA and the EU-27
+Author: 
+ Zegada-Lizarazu, Walter;  Parrish, David;  Berti, Marisol;  Monti, Andrea
+Journal: 
+BIOFUELS BIOPRODUCTS & BIOREFINING-BIOFPR
+Publish Year: 
+NOV 2013
+Abstract: 
+A concise and up-to-date review has been undertaken to summarize consistent or diverging agronomic points of view on dedicated energy crops for advanced biofuels in the USA and the EU-27. The main purpose of this review is to discuss those crops where many agronomic constraints have been resolved, bringing them closer to large-scale production and commercialization. Where possible, examples of crop management practices that would enhance sustainability and energy yields are provided. The most promising crops and agronomic strategies for their production in the EU-27 and the USA are discussed. We also provide discussion of what the theoretically ideal characteristics of advanced biofuel crops might be. On both continents, understanding of management practices for switchgrass (Panicum virgatum L.) and miscanthus (Miscanthus x giganteus) as energy crops appears to be at an advanced stage. Two other widely considered energy crop candidates - sorghum (Sorghum bicolor (L.) Moench) and reed canary grass (Phalaris arundinacea L.) - have production and management guidelines that were developed for forage uses, but can be easily applied to biomass feedstock production. Giant reed (Arundo donax L.) has been developed as a bioenergy crop mainly in Europe. In the USA, giant reed is considered a noxious weed in many states, and its planting is prohibited. Establishing crop management practices that will be successful at a large scale and for the long term will help attract growers and investors to produce advanced biofuels, i.e. second-generation biofuels, which can help reduce our dependence on fossil energy sources. (c) 2013 Society of Chemical Industry and John Wiley & Sons, Ltd
+Keyword: 
+Miscanthus,switchgrass,sorghum,reed canary grass,giant reed,management of bioenergy crops,energy crop ideotype,REED CANARY-GRASS,MISCANTHUS X GIGANTEUS,PANICUM-VIRGATUM-L.,SOIL CARBON SEQUESTRATION,WATER-USE EFFICIENCY,ARUNDO-DONAX L.,ENERGY CROPS,BIOMASS PRODUCTION,SWITCHGRASS,BIOENERGY
+
+Title: 
+Review of US and EU initiatives toward development, demonstration, and commercialization of lignocellulosic biofuels
+Author: 
+ Balan, Venkatesh;  Chiaramonti, David;  Kumar, Sandeep
+Journal: 
+BIOFUELS BIOPRODUCTS & BIOREFINING-BIOFPR
+Publish Year: 
+NOV 2013
+Abstract: 
+Advanced biofuels produced from lignocellulosic biomass offer an exciting opportunity to produce renewable liquid transportation fuels, biochemicals, and electricity from locally available agriculture and forest residues. The growing interest in biofuels from lignocellulosic feedstock in the United States (US) and the European Union (EU) can provide a path forward toward replacing petroleum-based fuels with sustainable biofuels which have the potential to lower greenhouse gas (GHG) emissions. The selection of biomass conversion technologies along with feedstock development plays a crucial role in the commercialization of next-generation biofuels. There has been synergy and, even with similar basic process routes, diversity in the conversion technologies chosen for commercialization in the EU and the US. The conversion technologies for lignocellulosic biomass to advanced biofuels can be broadly classified in three major categories: biochemical, thermochemical, and hybrid conversions. The objective of this review is to discuss the US and EU biofuel initiatives, feedstock availability, and the state-of-art conversion technologies that are potentially ready or are already being deployed for large-scale applications. The review covers and compares the developments in these areas in the EU and the USA and provides a comprehensive list of the most relevant ongoing development, demonstration, and commercialization activities in various companies, along with the different processing strategies adopted by these projects. (c) 2013 Society of Chemical Industry and John Wiley & Sons, Ltd
+Keyword: 
+biofuels,thermochemical,biochemical,commercialization,lignocellulosic biomass,CORN STOVER,ENZYMATIC-HYDROLYSIS,PRETREATMENT,BIOMASS,TECHNOLOGIES,CONVERSION,CHEMICALS,CELLULOSE,PRODUCTS,WHEAT
+
+Title: 
+Review of US and EU initiatives toward development, demonvstration, and commercialization of lignocellulosic biofuels (vol 7, pg 732, 2013)
+Author: 
+ Balan, Venkatesh;  Chiaramonti, David;  Kumar, Sandeep
+Journal: 
+BIOFUELS BIOPRODUCTS & BIOREFINING-BIOFPR
+Publish Year: 
+NOV 2013
+Abstract: 
+
+Keyword: 
+
+
+Title: 
+Study on soot formation characteristics in the diesel combustion process based on an improved detailed soot model
+Author: 
+ Cheng, Xiaobei;  Chen, Liang;  Yan, Fangqin;  Dong, Shijun
+Journal: 
+ENERGY CONVERSION AND MANAGEMENT
+Publish Year: 
+NOV 2013
+Abstract: 
+Although much research has been done on soot formation in engines, the mechanisms involved in the process are poorly understood and models of the process are overly simplistic. An improved detailed soot model is developed that couples a reduced diesel surrogate fuel chemical reaction mechanism of n-heptane/toluene, implemented into KIVA-3V2 code, for the numerical investigation of soot formation, mass concentration, and size distribution in diesel engines. This detailed soot model incorporates the effects of soot precursors, including isomers of acetylene and polycyclic aromatic hydrocarbons (PAHs), and the physical processes of PAH deposition on the particle surface, soot formation, and particle surface growth. Compared with experiment results in an optical engine and a single-cylinder diesel engine, the improved detailed soot model was effective: the simulated in-cylinder combustion pressure, heat release rate, and ignition timing were in excellent agreement with the experimental results. The simulated two-dimensional, transient distribution of soot concentration was in good agreement with that obtained by using the two-color method, and the simulated changing trend of soot emission was consistent with the experimental results. Therefore, the detailed soot model can be used to accurately simulate and predict soot emission at different conditions in diesel engines. Furthermore, at the initial stage of combustion, large amounts of small-size soot particles were produced by the pyrolysis reactions and polymerization of the hydrocarbon fuel, and the particle size was in the range of 5-40 nm. At the middle stage of combustion, soot particles continued to grow by particle coagulation, surface growth, and the deposition of PAHs, which greatly expanded the particle size range and caused many large-size particles to be produced in the engine cylinder. At the late stage of combustion, the range of particle size distribution stabilized under the influence of further oxidation reactions, and the particle size ranged from 5 to 20 nm. The details of soot-relevant quantities (e.g., particle size, number concentration, and mass) provide valuable insights into soot formation and oxidation processes in diesel engines. (C) 2013 Elsevier Ltd. All rights reserved.
+Keyword: 
+Detailed soot model,2-Dimensional transient distribution of soot concentration,Single-cylinder diesel engine,Particle number concentration,Particle size,PYROLYSIS,OXIDATION,MECHANISM,TOLUENE,GROWTH,FLAME
+
+Title: 
+Comparative analysis of dynamic line rating models and feasibility to minimise energy losses in wind rich power networks
+Author: 
+ Simms, Mathew;  Meegahapola, Lasantha
+Journal: 
+ENERGY CONVERSION AND MANAGEMENT
+Publish Year: 
+NOV 2013
+Abstract: 
+Wind power generation has indicated an exponential increase during last two decades and existing transmission network infrastructure is increasingly becoming inadequate to transmit remotely generated wind power to load centres in the network. The dynamic line rating (DLR) is one of the viable solutions to improve the transmission line ampacity during high wind penetration without investing on an additional transmission network. The main objective of this study is to identify the basic differences between two main line rating standards, since transmission network service providers (TNSPs) heavily depend on these two standards when developing their line rating models. Therefore, a parameter level comparison between two line rating models is a timely requirement, in particular for high wind conditions. Study has shown that roughness factor causes a significant difference between both standards. In particular, the IEEE model indicates more conservative approach due to this parameter. In addition, solar heat-gain calculation has also resulted in significant difference in ampacity ratings between two standards. A case study was developed considering a wind rich network and it has shown that by implementing DLR in wind rich regions, it can effectively reduce line overloading incidents and accommodate wind power flows in the network without any curtailment. Moreover, ability of DLR to reduce network energy losses is also demonstrated and emphasised the importance of selecting suitable DLR candidates to minimise energy losses in the network. (C) 2013 Elsevier Ltd. All rights reserved.
+Keyword: 
+Ampacity,Convection cooling,Dynamic line rating (DLR),Energy losses,Joule heating,Radiated cooling,Roughness factor,Solar heating,Wind generation
+
+Title: 
+Biogas performance from co-digestion of Taihu algae and kitchen wastes
+Author: 
+ Zhao, Ming-Xing;  Ruan, Wen-Quan
+Journal: 
+ENERGY CONVERSION AND MANAGEMENT
+Publish Year: 
+NOV 2013
+Abstract: 
+Co-digestion of Taihu algae with high carbon content substrate can balance the nutrients in the fermentation process. In this study, optimal mixing ratio for co-digestion of Taihu algae and kitchen wastes were investigated in order to improve biogas production potential. The results indicated that the biogas yield reached 388.6 mL/gTS at C/N15:1 group, which was 1.29 and 1.18 times of algae and kitchen wastes only. The maximum concentration of VFA reached 4239 mg/L on 8th day in kitchen wastes group, which was 1.21 times of algae group. Neutral protease enzyme activity in algae group reached maximum of 904.2 mu g/(gTS h), while dehydrogenase enzyme at C/N 15:1 group reached maximum of 3402.2 mu gTF/(gTS h). The feasibility of adjusting the C/N with co-digestion of Taihu algae and kitchen wastes to increase biogas production was demonstrated. Remarkably, the C/N of 15:1 was found to be the most appropriate ratio. Crown Copyright (C) 2013 Published by Elsevier Ltd. All rights reserved.
+Keyword: 
+Taihu algae,Kitchen wastes,Biogas,Neutral protease enzyme,Dehydrogenase enzyme,ANAEROBIC-DIGESTION,SLUDGE,ENHANCEMENT,FERMENTATION,HYDROGEN
+

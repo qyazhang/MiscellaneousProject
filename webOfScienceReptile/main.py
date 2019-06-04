@@ -64,7 +64,6 @@ class Utils(object):
             print("total result item number is: "+str(totalRes))
             print("paper per page: "+str(paperPerPage))
 
-            paper_id = 0
             #这个用来限制爬多少页文章之后更换SID防止封SID反扒
             #现在是20页*10条=200条后更换一次SID，如果程序中途退出的话，基本就是SID被封了，把这个数调小一点
             #然后从progress里记录的数开始，改stop_id后再运行就行了。
@@ -74,7 +73,14 @@ class Utils(object):
             #这个用来更改起始的位置,0表示从头开始
             start_id = start
 
-            for j in range(1, totalPage+1):
+            if (start_id % paperPerPage == 0):
+                start_id = start_id - 1
+            start_page = int(start_id / paperPerPage) + 1
+            paper_id = (start_page - 1) * paperPerPage  
+            if (start_id % paperPerPage == 0):
+                start_id = start_id + 1
+
+            for j in range(start_page, totalPage+1):
                 #Update sid, renew search item
                 if (j % pressure_threshold == 0 & paper_id > start_id):
                     print("Applying for a new session")
@@ -84,6 +90,9 @@ class Utils(object):
                     self.form_data['SID']=sid
                     print("new sid")
                     print(self.form_data.get('SID'))
+                    ua = UserAgent(path="fake_useragent.json")
+                    fake_agent = ua.random 
+                    self.hearders['User-Agent']=fake_agent
                     r = s.post(root_url, data=self.form_data, headers=self.hearders)
                 
                 searched_result_page_url = "http://apps.webofknowledge.com/summary.do?product=WOS&search_mode=GeneralSearch&qid=1&SID="+self.form_data.get('SID')+"&&update_back2search_link_param=yes&page="+str(j)
@@ -95,6 +104,7 @@ class Utils(object):
 
                 for i in range(1, paperPerPage+1):
                     paper_id += 1
+                    #print(paper_id)
                     if (paper_id <= start_id):
                         continue
                     
@@ -152,8 +162,10 @@ class Utils(object):
         except Exception as e:
             print(e)
             print(i)
+            print(searched_result_page_url)
+            print(full_record_page_url)
             flag = 1
-            return cited, download, flag
+            return
 
 
 if __name__ == "__main__":
@@ -169,11 +181,18 @@ if __name__ == "__main__":
     print("SID") 
     print(sid)
 
+    #每多少页更新一次SID改这里
+    threshold = 15
+    #上次停的地方，这里从这里再开始（这里是1527的话，则再次运行开始记录的是1528条）
+    start_id = 1527
+    #上次停的source.txt里的第几条改这里,0是第一条，依此类推
+    start_item = 0
+
     saved_result = open("result.txt", 'a')
     #saved_result.write("Title, Author, Journal/Conference, Publish Year, Abstract, Keywords")
 
     with open('source.txt', 'rt') as f:
-        for i in range(start_item, count-1, 2):
+        for i in range(start_item*2, count-1, 2):
             year = source[i]
             titleExpression = source[i+1]
             print("searched title expression: "+titleExpression)
