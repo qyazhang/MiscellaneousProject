@@ -8,7 +8,8 @@ import time
 
 class Utils(object):
     def __init__(self, sid, titleExpression, year):
-        ua = UserAgent(verify_ssl=False)
+        #ua = UserAgent(verify_ssl=False)
+        ua = UserAgent(path="fake_useragent.json")
         fake_agent = ua.random
         thisYear = datetime.datetime.now().year
         self.hearders = {
@@ -49,7 +50,7 @@ class Utils(object):
             'rs_sort_by': 'PY.D;LD.D;SO.A;VL.D;PG.A;AU.A'
         }
 
-    def craw(self,root_url,i,page,file):
+    def craw(self,root_url,item,file,threshold,start):
         try:
             s = requests.Session()
             r = s.post(root_url, data=self.form_data, headers=self.hearders)
@@ -69,13 +70,13 @@ class Utils(object):
             #然后从progress里记录的数开始，改stop_id后再运行就行了。
             #另外如果已经完成了source.txt中某一项的搜索，这个时候需要临时吧source.txt中间的某一项搜索条件删掉后，
             #再进行上述过程，防止重复记录（其实也可以再写一个防重复。。。但是我懒）
-            pressure_threshold = 20
+            pressure_threshold = threshold
             #这个用来更改起始的位置,0表示从头开始
-            stop_id = 20
+            start_id = start
 
             for j in range(1, totalPage+1):
                 #Update sid, renew search item
-                if (j % pressure_threshold == 0 & paper_id > stop_id):
+                if (j % pressure_threshold == 0 & paper_id > start_id):
                     print("Applying for a new session")
                     root = 'https://apps.webofknowledge.com'
                     sid_url = requests.get(root)
@@ -94,7 +95,7 @@ class Utils(object):
 
                 for i in range(1, paperPerPage+1):
                     paper_id += 1
-                    if (paper_id <= stop_id):
+                    if (paper_id <= start_id):
                         continue
                     
                     full_record_location = "//div[@id='RECORD_" + str(paper_id) + "']/div[@class='search-results-content']//a[starts-with(@href,'/full_record')]/@href"
@@ -146,14 +147,13 @@ class Utils(object):
                     file.writelines('Keyword: \n')
                     file.writelines(keyword+'\n')
                     file.writelines('\n')
-                    print("Progress: "+str(paper_id)+"/"+str(totalRes))
+                    print("Progress: "+str(item)+":"+str(paper_id)+"/"+str(totalRes))
 
         except Exception as e:
-            if i == 0:
-                print(e)
-                print(i)
-                flag = 1
-                return cited, download, flag
+            print(e)
+            print(i)
+            flag = 1
+            return cited, download, flag
 
 
 if __name__ == "__main__":
@@ -173,11 +173,10 @@ if __name__ == "__main__":
     #saved_result.write("Title, Author, Journal/Conference, Publish Year, Abstract, Keywords")
 
     with open('source.txt', 'rt') as f:
-        #for i in range(0, count-1, 2):
-            i = 0
+        for i in range(start_item, count-1, 2):
             year = source[i]
             titleExpression = source[i+1]
             print("searched title expression: "+titleExpression)
             print("searched year: "+year)
             utils = Utils(sid, titleExpression, year)
-            utils.craw('https://apps.webofknowledge.com/WOS_GeneralSearch.do', 0, 1, saved_result)
+            utils.craw('https://apps.webofknowledge.com/WOS_GeneralSearch.do', i/2+1, saved_result, threshold, start_id)
